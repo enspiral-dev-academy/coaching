@@ -1,5 +1,7 @@
 # Coaching at Dev Academy
 
+Coaching is your way to request teaching tailored to your specific needs.
+
 ## [Waffle board](https://waffle.io/enspiral-dev-academy/coaching)
 
 This repo is for organising individual or small group coaching sessions.
