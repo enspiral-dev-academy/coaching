@@ -8,4 +8,4 @@ Coaching can be in bootcamp hours, lunch times or in the evenings or weekends (i
 
 Sessions can be one on one or small groups and can cover any topic you like. 
 
-To request coaching create an issue on the waffle board and we'll aim to get you support as soon as we can.
+To request coaching create an issue on the [waffle board](https://waffle.io/enspiral-dev-academy/coaching) and we'll aim to get you support as soon as we can.
